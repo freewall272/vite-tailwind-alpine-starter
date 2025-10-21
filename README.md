@@ -2,5 +2,8 @@
 
 git clone
 
+rmdir .git /s /q
+
 npm install
+
 npm run dev
